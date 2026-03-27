@@ -6,7 +6,7 @@ on:
 
 permissions:
   contents: read
-  packages: write # Permiso para escribir en GitHub Container
+  packages: write # Permiso para escribir en GitHub Container.
 
 jobs:
   test_and_build:
